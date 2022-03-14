@@ -34,14 +34,13 @@ HTML, CSS, Django, SQL, Models, and Migrations, Git, JavaScript Basic, UI, Testi
   
 </div>
   
- 
-<div style="display: inline_block"><br>
+ <br>
+
+<div>
   <a href="https://www.youtube.com/c/WelingtonSilvaMusica" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-    
   <a href = "mailto:welington.kaaminsk2002@unifei.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    
   <a href="https://www.linkedin.com/in/welington-gonçalves-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+  
   ![Snake animation](https://github.com/WelingtonSilvaDev/WelingtonSilvaDev/blob/output/github-contribution-grid-snake.svg)
  
 </div>
