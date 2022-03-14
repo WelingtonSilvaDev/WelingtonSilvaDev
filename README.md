@@ -31,15 +31,11 @@ HTML, CSS, Django, SQL, Models, and Migrations, Git, JavaScript Basic, UI, Testi
    <img align="center" alt="Wel-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   
    <img align="center" alt="Wel-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-
-  ##
-  
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
   
 </div>
   
-  
-  <div> 
+ 
+<div> 
   <a href="https://www.youtube.com/c/WelingtonSilvaMusica" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
     
   <a href = "mailto:welington.kaaminsk2002@unifei.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
