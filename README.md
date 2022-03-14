@@ -30,7 +30,7 @@ HTML, CSS, Django, SQL, Models, and Migrations, Git, JavaScript Basic, UI, Testi
   
    <img align="center" alt="Wel-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   
-   <img align="center" alt="Wel-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+   <img align="center" alt="Wel-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> 
   
 </div>
   
