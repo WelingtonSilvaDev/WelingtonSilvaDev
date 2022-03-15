@@ -33,7 +33,11 @@ HTML, CSS, Django, SQL, Models, and Migrations, Git, JavaScript Basic, UI, Testi
    <img align="center" alt="Wel-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> 
   
 </div>
-  
+  <div>
+  <img align="right" alt="Wel-pic" height="200" style="border-radius:80px;" src="https://media.discordapp.net/attachments/578712109228228608/953380066904137738/download20220302164414.png">
+  </div>
+</div>
+
  <br>
 
 <div>
