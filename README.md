@@ -36,7 +36,7 @@
   
 </div>
   <div>
-  <img align="right" alt="Wel-pic" height="200" style="border-radius:80px;" src="https://media.discordapp.net/attachments/578712109228228608/953380066904137738/download20220302164414.png">
+  <img align="right" alt="Wel-pic" height="200" style="border-radius:80px;" src="https://media.discordapp.net/attachments/855992963788046349/1025781435866546246/Screenshot_from_2022-10-01_11-40-24.png?width=421&height=468">
   </div>
 </div>
 
