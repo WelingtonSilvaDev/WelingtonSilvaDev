@@ -34,7 +34,7 @@
   
    <img align="center" alt="Wel-C++" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> 
    
-   <img align="center" alt="Wel-Bootstrap" height="40" width="40" src="src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"> 
+   <img align="center" alt="Wel-Bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"> 
            
           
 
