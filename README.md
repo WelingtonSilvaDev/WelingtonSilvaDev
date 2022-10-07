@@ -33,7 +33,11 @@
    <img align="center" alt="Wel-C" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   
    <img align="center" alt="Wel-C++" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> 
-  
+   
+   <img align="center" alt="Wel-Bootstrap" height="40" width="40" src="src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"> 
+           
+          
+
 </div>
   <div>
   <img align="right" alt="Wel-pic" height="300" style="border-radius:80px;" src="https://media.discordapp.net/attachments/855992963788046349/1025781435866546246/Screenshot_from_2022-10-01_11-40-24.png?width=421&height=468">
