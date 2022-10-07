@@ -36,7 +36,9 @@
   
    <img align="center" alt="Wel-C++" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> 
    <img align="center" alt="Wel-Ubuntu" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg"> 
-    <img align="center" alt="Wel-Windows" height="40" width="40" src="https://cdn.discordapp.com/attachments/414948852412710912/1027736531726762014/win.png"> 
+   <img align="center" alt="Wel-Windows" height="40" width="40" src="https://cdn.discordapp.com/attachments/414948852412710912/1027736531726762014/win.png"> 
+   <img align="center" alt="Wel-Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"> 
+       
 
           
           
