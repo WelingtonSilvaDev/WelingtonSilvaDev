@@ -1,10 +1,24 @@
 ### Hi there, I'm Welington Silva 👋
 
-
-- 🔭 I did a Scientific Initiation in the Bioinformatic's area...
-- 🤖 I'm currently studying Control and Automation Engineering at UNIFEI, Itabira campus.
-- 🧑‍💻 I have some experience in Python, C/C++, HTML/CSS, R, MatLab...
-- 🎤 Fun fact: I love music (sing mainly). So, if you wanna play, call me...
+- Graduating 2024.2 in Control and Automation Engineering at the Federal University of Itajubá (UNIFEI);
+- Advanced programming experience in Python, R, C/C++, HTML/CSS/Markdown (markup languages);
+- Notions about JavaScript, Django and database;
+- Experience with programming languages ​​for engineering: advanced in MatLab/Octave, Ladder and notions about Instruction List, SFC, FBD;
+- Academic experiences in volunteering (PET Physics) and rocket design extension team (Falcon-6 Rocket Design);
+- 2 years of experience in the area of ​​medicinal bioinformatics/chemoinformatics due to Scientific Initiation in the area, with recognition of the best work at the Brazilian Symposium on Computing Applied to Health 2023 (São Paulo);
+- Experience using IDEs like VSCode, using git and github;
+- Experience with Windows and Linux (Ubuntu);
+- Proactive and leadership profile;
+- Communication and teaching skills;
+- Skill in video and audio editing;
+- Speaking skills;
+- Singing and drawing skills;
+- Advanced knowledge of Microsoft Office and Latex;
+- Advanced knowledge of Excel;
+- Fluent English;
+- CNH B;
+- Availability to change cities and travel for the company from 2024.2.
+- Future intentions: data science courses in R and/or Python using machine learning and MBA in Management/Business.
 
 <div align="center">
   <a href="https://github.com/WelingtonSilvaDev">
