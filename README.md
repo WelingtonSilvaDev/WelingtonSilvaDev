@@ -1,6 +1,6 @@
 ### Hi there, I'm Welington Silva 👋
 
-- Graduating 2024.2 in Control and Automation Engineering at the Federal University of Itajubá (UNIFEI);
+- Graduated 2024.2 in Control and Automation Engineering at the Federal University of Itajubá (UNIFEI);
 - Advanced programming experience in Python, R, C/C++, HTML/CSS/Markdown (markup languages);
 - Notions about JavaScript, Django and database;
 - Experience with programming languages ​​for engineering: advanced in MatLab/Octave, Ladder and notions about Instruction List, SFC, FBD;
@@ -16,8 +16,6 @@
 - Advanced knowledge of Microsoft Office and Latex;
 - Advanced knowledge of Excel;
 - Fluent English;
-- CNH B;
-- Availability to change cities and travel for the company from 2024.2.
 - Future intentions: data science courses in R and/or Python using machine learning and MBA in Management/Business.
 
 <div align="center">
